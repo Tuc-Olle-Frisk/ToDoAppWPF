@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDoAppWPF
 {
-    internal class ToDoList
+    public class ToDoList
     {
         private List<string> tasks = new();
 
